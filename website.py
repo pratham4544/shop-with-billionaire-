@@ -117,7 +117,7 @@ def update_net_worth(billionaire, purchased_items):
 
 # Streamlit app
 def main():
-    st.title("Help Your Billionaire In Shopping...")
+    st.title("Help Your Billionaire Friend In Shopping...")
 
     # Greet friend and ask for their name
     friend_name = st.text_input("Enter Your Name Please Sir")
