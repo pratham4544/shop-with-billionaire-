@@ -1,6 +1,7 @@
 # Online Shopping Assistant for Billionaires
 
 Welcome to the Online Shopping Assistant for Billionaires! This Streamlit app allows you to help your billionaire friend shop for luxury items. The app displays a list of billionaires, their net worth, and a selection of high-end items available for purchase.
+Visit the [Online Shopping Assistant for Billionaires](https://shop-with-billionaire.streamlit.app/) now!
 
 ## How to Use
 
@@ -35,6 +36,10 @@ Welcome to the Online Shopping Assistant for Billionaires! This Streamlit app al
 
 - **Customization:**
   - Feel free to modify the list of billionaires and available items in the code to suit your preferences.
+
+## Visit the Site
+
+Ready to start shopping? Visit the [Online Shopping Assistant for Billionaires](https://shop-with-billionaire.streamlit.app/) now!
 
 ## Disclaimer
 
